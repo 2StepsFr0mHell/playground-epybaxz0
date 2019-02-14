@@ -4,9 +4,9 @@
         $condition =  capital("France") === "Paris" &&
                       capital("Allemagne") === "Berlin" &&
                       capital("Italie") === "Rome" &&
-                      capital("Maroc") === "Barbes" &&
+                      capital("Maroc") === "Rabat" &&
                       capital("Espagne") === "Madrid" &&
-                      capital("Portugal") === "Porto" &&
+                      capital("Portugal") === "Lisbonne" &&
                       capital("Angleterre") === "Londres" &&
                       capital("Inconnu") === "Inconnu" ;
                       
